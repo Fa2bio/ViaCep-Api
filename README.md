@@ -12,7 +12,7 @@
 
 ## <a name="what-is-it"></a>What is it?
 
-- This API queries a book through ISBN-10 or ISBN-13 code and returns some of his foremost information.
+- This api generates an address (in Brazil) from a zip code entere;
 - The base url that this api consumes is https://viacep.com.br/ws/{cep}/json
 
 ## <a name="requirements"></a>Requirements
