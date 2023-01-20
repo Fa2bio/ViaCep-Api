@@ -12,7 +12,7 @@
 
 ## <a name="what-is-it"></a>What is it?
 
-- This api generates an address (in Brazil) from a zip code entere;
+- This api generates an address (in Brazil) from a zip code;
 - The base url that this api consumes is https://viacep.com.br/ws/{cep}/json
 
 ## <a name="requirements"></a>Requirements
