@@ -12,7 +12,7 @@
 
 ## <a name="what-is-it"></a>What is it?
 
-- This api generates an address (in Brazil) from a zip code;
+- This API search  a address in the ViaCep external API and returns a Json with the must over information of that address;
 - The base url that this api consumes is https://viacep.com.br/ws/{cep}/json
 
 ## <a name="requirements"></a>Requirements
