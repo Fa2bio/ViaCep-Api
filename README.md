@@ -12,7 +12,7 @@
 
 ## <a name="what-is-it"></a>What is it?
 
-- This API search  a address in the ViaCep external API and returns a Json with the must over information of that address;
+- This API search  a address in the ViaCep API and returns a Json with the some of his foremost information of that address;
 - The base url that this api consumes is https://viacep.com.br/ws/{cep}/json
 
 ## <a name="requirements"></a>Requirements
